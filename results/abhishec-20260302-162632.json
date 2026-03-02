@@ -1,0 +1,19 @@
+{
+  "participants": {
+    "agent": "019cade3-a63f-7283-9991-ab5dbcd815e4"
+  },
+  "results": [
+    {
+      "domain": "airline",
+      "score": 1.0,
+      "max_score": 3,
+      "pass_rate": 33.33333333333333,
+      "task_rewards": {
+        "0": 1.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "time_used": 755.4096810817719
+    }
+  ]
+}
