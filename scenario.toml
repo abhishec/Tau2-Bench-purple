@@ -1,4 +1,4 @@
-# Purple Business Process Agent — Tau2-Bench assessment (v36 — v22 search-date-fix+injection-fix)
+# Purple Business Process Agent — Tau2-Bench assessment (v37 — v23 has-date-q-guard+nested-list-parser)
 [green_agent]
 agentbeats_id = "019b4d06-1da3-7c22-88fa-f4660061a779"
 env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" }
