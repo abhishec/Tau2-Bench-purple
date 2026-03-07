@@ -1,4 +1,4 @@
-# Purple Business Process Agent — Tau2-Bench assessment (v49 — 3-phase: SDZQKO→4OG6T3→cert)
+# Purple Business Process Agent — Tau2-Bench assessment (v50 — smart routing + valid API key)
 [green_agent]
 agentbeats_id = "019b4d06-1da3-7c22-88fa-f4660061a779"
 env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" }
@@ -10,4 +10,4 @@ env = { ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", GREEN_AGENT_MCP_URL = "http:
 
 [config]
 domain = "airline"
-num_tasks = 3
+num_tasks = 50
