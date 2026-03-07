@@ -1,4 +1,4 @@
-# Purple Business Process Agent — Tau2-Bench assessment (v50 — smart routing + valid API key)
+# Purple Business Process Agent — Tau2-Bench assessment (v51 — fresh GitHub secret + smart routing + valid API key)
 [green_agent]
 agentbeats_id = "019b4d06-1da3-7c22-88fa-f4660061a779"
 env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" }
